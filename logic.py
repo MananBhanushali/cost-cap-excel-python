@@ -146,7 +146,7 @@ def find_family(codes):
     Finds which of the given codes are related to the same family ( same part )
 
     Args:
-        code1, code2, code3, code4
+        codes
     Returns:
         part_family_groups
 
